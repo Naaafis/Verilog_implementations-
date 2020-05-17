@@ -1,0 +1,8 @@
+Verilog implementation of T flip flops, D flip flop, JK slip slop.
+
+Practiced hierarchy by building JK from D flip flop, and D flip flop from T flip flop.
+
+FINALBOSS includes circuit concisting of MUX and all three flip flops plus some gates.
+
+Simulation sources included.
+
