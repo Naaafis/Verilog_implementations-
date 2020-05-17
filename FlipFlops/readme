@@ -1,4 +1,6 @@
-Verilog implementation of T flip flops, D flip flop, JK slip slop.
+Verilog implementation of T flip flops, D flip flop, JK slip slop. 
+
+Includes synchronous as well as ascynchronous clocks and resets.
 
 Practiced hierarchy by building JK from D flip flop, and D flip flop from T flip flop.
 
